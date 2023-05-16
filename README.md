@@ -1,1 +1,1 @@
-# mayumu-cake-spastries
+# mayumu-cakes-pastries
