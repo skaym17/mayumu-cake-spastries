@@ -157,7 +157,7 @@ header.sticky{
 }
 
 .reviews p{
-    color: #707070;
+    color: #565656;
     font-size: 16px;
     font-weight: 400;
     line-height: 25px;
@@ -193,7 +193,7 @@ header.sticky{
 }
 
 .cart h5{
-    color: #636872;
+    color: #565656;
     font-size: 14px;
     text-transform: capitalize;
     font-weight: 500;
@@ -220,7 +220,7 @@ header.sticky{
 }
 
 .first-info img{
-    width: 200px;
+    width: 230px;
     height: auto;
 }
 
@@ -252,14 +252,28 @@ header.sticky{
     color: #894020;
 }
 
-.social-icon img{
-    width: 20px;
+.third-info p a{
     color: #565656;
-    margin-right: 10px;
-    font-size: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    cursor: pointer;
     transition: all .42s;
 }
 
-.social-icon img:hover{
+.contact-info p a:hover{
+    color: #894020;
+}
+
+.social-icon a img{
+    width: 35px;
+    color: #565656;
+    margin-right: 10px;
+    transition: all .42s;
+}
+
+.social-icon a img:hover{
     transform: scale(1.3);
 }
